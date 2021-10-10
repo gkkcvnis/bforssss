@@ -2,6 +2,375 @@
 
 #EXTM3U 
 
+#EXTM3U
+#EXTINF:-1,HUM TVHD
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,cartoonnetworkhindikdin
+http://pkr.cinepex.tv:8278/cartoonnetworkhindikdin/playlist.m3u8
+
+#EXTINF:-1,HUM-TV-LOCKLE
+http://221.120.204.4/HUM-TV-LOCKLE/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,play-entertainment
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/playlist.m3u8?
+
+#EXTINF:-1,Hum-Sitaray
+https://streamone.simpaisa.com:8443/pitvlive1/sitaraynew.smil/playlist.m3u8?
+
+#EXTINF:-1,aplusp1
+
+https://cdn.ta.tapmad.com/taptv/3d223f0d861c8174ca34c60356601c2f.sdp/taptv/aplusp1/chunks.m3u8
+................india............
+#EXTINF:-1,Zee tv 
+http://208.115.215.42/ZEE_Tv_HD_02/index.m3u8
+
+
+
+
+#EXTINF:-1,Zee cinema Hd
+
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
+
+
+#EXTINF:-1,Zee BollyWood hd
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Anmol Hd
+http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
+
+
+#EXTINF:-1,Zee BollyWood 
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+
+#EXTINF:-1,Zee cinema Hd
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Zee Action Hd
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Vijay_TV_HD
+
+http://208.115.215.42/Vijay_TV_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star_Parvah_HD
+http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Utsav_Gold_HD
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Utsav_Plus_UK
+http://208.115.215.42/Utsav_Plus_UK/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony Ten 2 (3)
+http://103.153.39.34:8000/play/a05r/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.153.39.34:8000/play/a042/index.m3u8
+#EXTINF:-1,The Q india
+http://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
+#EXTINF:-1,Sony SAB (3)
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Plus HD (2)
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Parvah
+http://208.115.215.42/Star_Parvah_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rishtey Cineplex
+http://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1,SONY MAX 2
+http://103.153.39.34:8000/play/a06r/index.m3u8
+#EXTINF:-1,Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BFlix Movies
+http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,Masti Tv
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1,Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1,9X Music
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,Zee Bangla HD (Global-2)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
+#EXTINF:-1,Enter 10 Bangla
+http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1,Colors Bangla HD
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nasa Tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1,TLC SD Hindi
+http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
+#EXTINF:-1,TLC (English)
+http://idvd.multitvsolution.com/idvo/tlceng_540p/index.m3u8
+#EXTINF:-1,Travel XP HD Hindi
+http://mygoodstream.pw/proxy.php/https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+#EXTINF:-1,NASA TV
+http://mygoodstream.pw/proxy.php/https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1,Discovery HD [English]
+http://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
+#EXTINF:-1,Discovery Science (English)
+http://idvd.multitvsolution.com/idvo/discoverscienceeng_540p/index.m3u8
+#EXTINF:-1,Discovery Science [HINDI]
+http://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:-1,Discovery HD [Hindi]
+http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1,ANIMAL PLANET [Hindi]
+http://idvd.multitvsolution.com/idvo/animalplanethindi_540p/index.m3u8
+#EXTINF:-1,TLC [Hindi]
+http://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1,TLC HD [English]
+http://idvd.multitvsolution.com/idvo/tlchd_540p/index.m3u8
+#EXTINF:-1,ANIMAL PLANET (Eng)
+http://idvd.multitvsolution.com/idvo/animalplaneteng_540p/index.m3u8
+#EXTINF:-1,Discovery Turbo
+http://prox.x86.co.uk/index.php/http://idvd.multitvsolution.com/idvo/turboeng.m3u8
+#EXTINF:-1,Discovery Turbo [English]
+http://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
+#EXTINF:-1,TLC HD Hindi
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1,Mr Bean Show
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1,Sonic (2)
+http://103.153.39.34:8000/play/a04p/index.m3u8
+
+
+............................................................
+
+
+#EXTINF:-1,Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1,KBS World50
+http://50.7.161.82:8278/streams/d/KBS/playlist.m3u8
+#EXTINF:-1,ME: DUBAI ONE
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1,Sony One50
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1,BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/.m3u8
+#EXTINF:-1,BHtv
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1,BBC Toronto Gaunda Punjab
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+#EXTINF:-1,Watan TV
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1,WOW! TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1,WOW!TV HD
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:-1,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8
+#EXTINF:-1,СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1,东南卫视
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/dongnanstv/1.m3u8
+#EXTINF:-1,Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
+#EXTINF:-1,Desi Channel
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:-1,TLX
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:-1,AnimaxHD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,EBS English
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1,Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1,USA: Motorcyclist
+https://a.jsrdn.com/broadcast/256ad9e679/+0000/low/c.m3u8
+#EXTINF:-1,USA: Field & Stream
+https://a.jsrdn.com/broadcast/7536b84786/+0000/low/c.m3u8
+#EXTINF:-1,Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1,Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1,MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,Red Bull TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+.........kids.....................................
+#EXTINF:-1,Disney Channel- Hindi (1)
+http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-1,Disney Channel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1,Disney XD (2)
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
+#EXTINF:-1,Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi_540p/index.m3u8
+#EXTINF:-1,Hungama Tv
+http://103.153.39.34:8000/play/a04l/index.m3u8
+#EXTINF:-1,Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1,Discovery Kids
+http://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1,Nick Junior (2)
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Marvel HQ HD
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1,Nick JunioR - Hindi
+http://103.153.39.34:8000/play/a04r/index.m3u8
+
+
+
+...............................................
+#EXTINF:-1, $ Discovery
+http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+#EXTINF:-1, Discovery German TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1, $ Better Nature US
+http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
+#EXTINF:-1,Animal Planet HD
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1,TRAVEL MIX
+http://89.38.8.131:39520
+#EXTINF:-1,This Old House
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=618&deviceId=5d51e791b7dba3b2ae990ab2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+
+
+
+
+.................QVC---------------------------
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1,Beauty IQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+#EXTINF:-1,QVC
+https://lsqvc1uscln-lh.akamaihd.net/i/lsqvc1uscln_01@809410/master.m3u8
+#EXTINF:-1,QVC 2
+https://lsqvc2us-lh.akamaihd.net/i/lsqvc2us_01@809440/master.m3u8
+#EXTINF:-1,QVC 3
+https://lsqvc3us-lh.akamaihd.net/i/lsqvc3us_01@809459/master.m3u8
+#EXTINF:-1,QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1,The Shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1,Silver Jewelry Sale
+https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
+#EXTINF:-1,Betterhealth
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1,Red Bull TV
+http://i.mjh.nz/nz/tv.redbull.tv.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1,Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1,RED BULL TV OPT 1
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.ts
+#EXTINF:-1,INT: 100% Auto Moto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:-1,USA: Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/low/c.m3u8
+#EXTINF:-1,USA: World Of Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/low/c.m3u8
+#EXTINF:-1, LUCHA LIBRE AAA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
+#EXTINF:-1,Ring of Honor (STIRR) (720p)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+#EXTINF:-1,Impact Wrestling
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1,euro Chanel 11
+http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
+#EXTINF:-1,RedBullTv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1,OneGolf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Eurosport
+http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-147600&useseq=t&version=2
+#EXTINF:-1,NowSportPrime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1,ufc2
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1,Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:-1,Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:-1,EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1,Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1,Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1,CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1,FashionTV
+https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FashionTV 2
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1,FashionTV 3
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+#EXTINF:-1,HD Fashion & Lifestyle UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,INT:Fashion TV (Slovakia)
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,Fashion Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1,Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
+#EXTINF:-1,Fashion TV L'Original
+https://a.jsrdn.com/broadcast/ftv2_2/-0800/c.m3u8
+#EXTINF:-1,Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1,Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1,Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV Paris
+http://bit.ly/2zOVkbF
+#EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b4500000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
+#EXTINF:-1,Fashion TV PG13
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1,Fashion TV PG13
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1,Fashion TV PG16
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_mid/index.m3u8
+#EXTINF:-1,Fashion One (4K)
+http://31.131.136.5:9013/play/a004
+#EXTINF:-1,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
+#EXTINF:-1,France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
 #NEWS
 
 #EXTINF: -1 tvg-id="AajTak.in" tvg-name="AAJ TAK HD" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News",AAJ TAK HD
