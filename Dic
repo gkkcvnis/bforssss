@@ -1,44 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI BANGLA",T Sports HD
-https://rb.gy/3bvpqm
+#EXTINF:-1 tvg-id="" tvg-name="T Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI",T Sports HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2431.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="T Sports BD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS CHANNELS",T Sports BD HD
-https://rb.gy/bicmei
+#EXTINF:-1 tvg-id="" tvg-name="T Sports BD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS",T Sports BD HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2628.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLADESHI BANGLA",Gazi TV
-https://rb.gy/0kz4e7
+#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="BANGLADESHI",Gazi TV
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
 
-#EXTINF:-1 tvg-id="starplushdplus1.in" tvg-name="Star Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="HINDI CHANNELS",Star Plus
-https://rb.gy/xyzq9l
+#EXTINF:-1 tvg-id="starplushdplus1.in" tvg-name="Star Plus" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Plus_HD.png" group-title="HINDI",Star Plus
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1144.m3u8
 
-#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="HINDI CHANNELS",Star Gold HD
-https://rb.gy/5s33go
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-name="Star Gold HD" tvg-logo="https://static.epg.best/nl/StarGold.nl.png" group-title="HINDI",Star Gold HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
 
-#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV Action" tvg-logo="https://dl.dropbox.com/s/gunzqonthx73x9z/utvaction.jpg" group-title="HINDI CHANNELS",UTV Action
-https://rb.gy/9rj4zi
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV Action" tvg-logo="https://dl.dropbox.com/s/gunzqonthx73x9z/utvaction.jpg" group-title="HINDI",UTV Action
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
 
-#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="HINDI CHANNELS",MTV Beats HD
-https://rb.gy/ugvjd3
+#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="HINDI",MTV Beats HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1338.m3u8
 
-#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA ",Sony Aath
-https://rb.gy/sndfyf
+#EXTINF:-1 tvg-id="sonyaath.in" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="BANGLA",Sony Aath
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
 
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="INDIAN BANGLA ",Star Jalsha
-https://rb.gy/0jvosi
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="Star Jalsha" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="BANGLA ",Star Jalsha
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
 
-#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="Sun Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest?cb=20190203115538" group-title="INDIAN BANGLA ",Sun Bangla
-https://rb.gy/pucwqs
+#EXTINF:-1 tvg-id="sunbangla.in" tvg-name="Sun Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Sun_Bangla_logo.jpg/revision/latest?cb=20190203115538" group-title="BANGLA ",Sun Bangla
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1012.m3u8
 
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla" tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="INDIAN BANGLA ",Colors Bangla
-rb.gy/lipgl2
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="Colors Bangla" tvg-logo="https://w0.pngwave.com/png/60/192/colors-bangla-bengali-television-show-television-channel-nepalis-png-clip-art.png" group-title="BANGLA ",Colors Bangla
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/976.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="ISLAMIC CHANNELS",Peace TV Bangla
-rb.gy/vzvcdq
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BANGLA",Peace TV Bangla
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2805.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Peacetvbanglalogo2.jpeg" group-title="BANGLA",Peace TV Bangla
+https://rebrand.ly/pagolaminjs
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
+#EXTINF:-1,Star Plus HD
+http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 
 
 #EXTINF:-1 tvg- group-title="Sports",GTV
